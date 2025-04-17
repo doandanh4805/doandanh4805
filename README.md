@@ -7,11 +7,16 @@
 
 - 🪪 **Name**: Doan Cong Danh  
 - 🎂 **Birthday**: 04/08/2005  
-  > *( Day, month, and year — . Fun little coincidence!)*  
+  > *( Day, month, and year — )*  
 - 🧠 **Personality**: I’m an **introvert**, which means I don’t talk much, and I might be quiet in conversations — but I enjoy deep thinking, focus, and creativity in silence.  
 - 🌱 **Learning & Growing**: Constantly exploring, learning, and building — one quiet step at a time.
 
+## 🎯 Hobbies & Interests
 
+- 📚 Reading manga  & learning new things (especially in tech)
+- 🎧 Listening to music to recharge
+- 🎮 I play games a lot, like 30 minutes to 1 hour per day. My favorites are AOV and FC online.
+- 💡 Exploring how things work, especially in software & systems
 
 
 
