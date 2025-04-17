@@ -7,7 +7,7 @@
 
 - 🪪 **Name**: Doan Cong Danh  
 - 🎂 **Birthday**: 04/08/2005  
-  > *( Day, month, and year — )*  
+  > *( Day, month, and year  )*  
 - 🧠 **Personality**: I’m an **introvert**, which means I don’t talk much, and I might be quiet in conversations — but I enjoy deep thinking, focus, and creativity in silence.  
 - 🌱 **Learning & Growing**: Constantly exploring, learning, and building — one quiet step at a time.
 
