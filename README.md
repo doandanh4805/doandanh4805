@@ -18,7 +18,7 @@
 - 🎮 I play games a lot, like 30 minutes to 1 hour per day. My favorites are AOV and FC online.
 - 💡 Exploring how things work, especially in software & systems
 
-
+📫 **Mail:** danhdoan.work@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/danh.04082005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/danhdoan4805) 
